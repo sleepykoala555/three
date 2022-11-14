@@ -509,6 +509,9 @@ h1 span{
   background-color: #fff;
     transition: 0.5s;
   }
+  .xuelie {
+  color: #555;
+}
   .xuelie ol{
     padding: 20px 20px;
   }
